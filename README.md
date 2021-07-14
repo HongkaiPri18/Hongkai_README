@@ -1,10 +1,10 @@
 CONTACT
-✉️: email_id@xxxxx.com    📲 +91-XXXXXXXXXX       LinkedIn       Website
+✉️: nemesismunch@gmail.com    📲 +65-91821287       LinkedIn  https://sg.linkedin.com/in/hong-kai-lee-613b0084     Website
 
 ABOUT
 alt text
 
-I am Kumar Vishwesh, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am Lee Hongkai progressively in need of fusing with artificial intelligence. I have contributed to BCG as a participating student for their Data Analytic Course
 
 Experience
 Education
