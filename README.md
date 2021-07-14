@@ -1,7 +1,3 @@
-_config.yml
-Set theme jekyll-theme-time-machine
-2 months ago
-README.md
 CONTACT
 ✉️: email_id@xxxxx.com    📲 +91-XXXXXXXXXX       LinkedIn       Website
 
