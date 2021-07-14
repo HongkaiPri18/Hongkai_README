@@ -1,5 +1,3 @@
-# Hongkai_README
-Public showcase folder, possibly a website
 _config.yml
 Set theme jekyll-theme-time-machine
 2 months ago
