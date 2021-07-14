@@ -1,4 +1,4 @@
-###CONTACT
+#####CONTACT
 ✉️: nemesismunch@gmail.com    📲 +65-91821287       LinkedIn  https://sg.linkedin.com/in/hong-kai-lee-613b0084     Website
 
 ![phuket 4 fishes](https://user-images.githubusercontent.com/86772739/125604346-8dc5cb13-de0f-42bc-b44d-0c4df32631f9.png)
@@ -13,16 +13,16 @@ Education
 Projects
 Featured
 
-###EXPERIENCE
+#####EXPERIENCE
 BOSTON CONSULTING GROUP
 SENILE ANAL CYST
 may 2021 to Present: 4 Months
 
-###ROLE: PADAWAN to the following Data Scientist/ Machine Learning Engineer/ AI Consultant UNIT: BCG GAMMA
+#####ROLE: PADAWAN to the following Data Scientist/ Machine Learning Engineer/ AI Consultant UNIT: BCG GAMMA
 
 Working on various mytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-###EDUCATION
+#####EDUCATION
 University of Hougang 2019 - 2021 
 
 ###PROJECTS
