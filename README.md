@@ -15,16 +15,15 @@ Featured
 
 ###EXPERIENCE
 BOSTON CONSULTING GROUP
-SENIOR ANALYST
-June-2019 to Present: 1 year 10 Months
+SENILE ANAL CYST
+may 2021 to Present: 4 Months
 
-###ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant UNIT: BCG GAMMA
+###ROLE: PADAWAN to the following Data Scientist/ Machine Learning Engineer/ AI Consultant UNIT: BCG GAMMA
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working on various mytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 ###EDUCATION
-LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+University of Hougang 2019 - 2021 
 
 ###PROJECTS
 Classification based projects
