@@ -4,9 +4,9 @@
 ![phuket 4 fishes](https://user-images.githubusercontent.com/86772739/125604346-8dc5cb13-de0f-42bc-b44d-0c4df32631f9.png)
 
 ###ABOUT
-alt text
 
-I am Lee Hongkai progressively in need of fusing with artificial intelligence. I have contributed to BCG as a participating student for their Data Analytic Course
+
+I am **Lee Hongkai**, progressively in need of fusing with artificial intelligence. I have contributed to BCG as a participating student for their Data Analytic Course.
 
 Experience
 Education
