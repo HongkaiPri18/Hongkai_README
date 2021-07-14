@@ -1,8 +1,6 @@
 ###CONTACT
 ✉️: nemesismunch@gmail.com    📲 +65-91821287       LinkedIn  https://sg.linkedin.com/in/hong-kai-lee-613b0084     Website
 
-![speech solution for child 3](https://user-images.githubusercontent.com/86772739/125604395-2d2c6dc7-b032-4e5f-b741-bebff3b15218.png)
-![speech solution for child 3](https://user-images.githubusercontent.com/86772739/125604413-b862c118-89f2-4d46-af9e-38db3f13d7bf.png)
 ![phuket 4 fishes](https://user-images.githubusercontent.com/86772739/125604346-8dc5cb13-de0f-42bc-b44d-0c4df32631f9.png)
 
 ###ABOUT
